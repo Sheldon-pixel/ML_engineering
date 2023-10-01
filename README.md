@@ -1,6 +1,6 @@
 # ML engineering & Tools
 
-## This repository gives an overview of all the necessary tools and technologies needed to become an ML/MLOps engineer.
+### This repository gives an overview of all the necessary tools and technologies needed to become an ML/MLOps engineer.
 
 The ML components are as follows:
 
@@ -9,7 +9,7 @@ The ML components are as follows:
 3. Model training
 4. Model evaluation
 5. Model deployment
-6. Model monitoringg 
+6. Model monitoring 
 
 To automate the operations of the above six components, you will need the following:
 
