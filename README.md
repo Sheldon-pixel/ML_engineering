@@ -15,4 +15,4 @@ To automate the operations of the above six components, you will need the follow
 
 1. A data engineering pipeline that converts raw data into high quality data.
 2. A machine learning pipeline that builds the model and deploys it into production.
-3. A trigger mechanism to rerun the pipeline incase data quality falls below a pre-defined frequency.
+3. A trigger mechanism to rerun the pipeline incase data quality falls below a pre-defined threshold while monitoring it.
