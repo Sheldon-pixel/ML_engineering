@@ -4,12 +4,12 @@
 
 The ML components are as follows:
 
-1. Data source
-2. Data pre-processing
-3. Model training
-4. Model evaluation
-5. Model deployment
-6. Model monitoring 
+1. Data source.
+2. Data pre-processing.
+3. Model training.
+4. Model evaluation.
+5. Model deployment.
+6. Model monitoring. 
 
 To automate the operations of the above six components, you will need the following:
 
